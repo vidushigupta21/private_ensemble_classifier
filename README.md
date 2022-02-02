@@ -47,4 +47,6 @@ The approach for this project is to take a combination of best performing classi
 
 -The performance of blendor model was evaluated using various evaluation metrics such as accuracy, AUC score, recall, f1 score.
 
+##System diagram
+
 ![system diagram](https://github.com/vidushigupta21/private_ensemble_classifier/blob/main/project%20system%20diagram.jpg)
