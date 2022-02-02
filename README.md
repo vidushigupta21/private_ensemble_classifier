@@ -46,3 +46,5 @@ The approach for this project is to take a combination of best performing classi
 -we add a bit of randomness to the result of base classifiers and skew the final result so that the true label doesn’t easily change by dropping just one base learner.
 
 -The performance of blendor model was evaluated using various evaluation metrics such as accuracy, AUC score, recall, f1 score.
+
+![system diagram](https://github.com/vidushigupta21/private_ensemble_classifier/blob/main/project%20system%20diagram.jpg)
